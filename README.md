@@ -60,3 +60,7 @@ Create a separate document for each project that you have planned or in the work
 
 ## How to Use The Journal
 When you start your day, pull a couple of items from your `Soon` heading up into the current day. As you work, take a few seconds to update the daily heading with what you're working on. Write down every task you completed or started, even if it feels minor. This will reinforce your self-image as a productive person and give you confidence in your ability to Get Shit Done.
+
+
+
+//*Hello World lmfao YARR HARR HARR\\
